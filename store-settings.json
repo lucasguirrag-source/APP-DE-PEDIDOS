@@ -1,0 +1,91 @@
+{
+  "name": "AI QUE FOME",
+  "phone": "5511994225944",
+  "phoneDisplay": "5511994225944",
+  "address": "Av. Senhor dos Passos, 280 - Centro, Capim Grosso - BA",
+  "promoGroupLink": "https://chat.whatsapp.com/ExemploGrupoPromocoes",
+  "discountPercent": 0,
+  "isManuallyClosed": false,
+  "deliveryFee": 6,
+  "freeDeliveryThreshold": 0,
+  "bannerImageUrl": "",
+  "aboutText": "Smash burgers autênticos com crostinha crocante na chapa de aço, queijo cheddar artesanal derretendo e receitas que alimentam sua fome de verdade no coração de Capim Grosso.",
+  "footerManifesto": "Inspirado na paixão por smash burgers autênticos em Capim Grosso: crostinha estalando na chapa, queijo cheddar artesanal derretendo e receitas que alimentam sua fome de verdade.",
+  "scheduleNotice": "*Segundas-feiras fechado para manutenção e preparação dos insumos.",
+  "footerPromoText": "Participe do nosso grupo de promoções exclusivas e acompanhe o preparo dos lanches.",
+  "instagramHandle": "@aiquefome.smash",
+  "instagramUrl": "https://instagram.com/aiquefome.smash",
+  "openingHoursSchedule": [
+    {
+      "dayOfWeek": 1,
+      "dayName": "Segunda-feira",
+      "openTime": "18:00",
+      "closeTime": "23:45",
+      "isClosed": true
+    },
+    {
+      "dayOfWeek": 2,
+      "dayName": "Terça-feira",
+      "openTime": "18:00",
+      "closeTime": "23:45",
+      "isClosed": false
+    },
+    {
+      "dayOfWeek": 3,
+      "dayName": "Quarta-feira",
+      "openTime": "18:00",
+      "closeTime": "23:45",
+      "isClosed": false
+    },
+    {
+      "dayOfWeek": 4,
+      "dayName": "Quinta-feira",
+      "openTime": "18:00",
+      "closeTime": "23:45",
+      "isClosed": false
+    },
+    {
+      "dayOfWeek": 5,
+      "dayName": "Sexta-feira",
+      "openTime": "06:00",
+      "closeTime": "00:00",
+      "isClosed": false
+    },
+    {
+      "dayOfWeek": 6,
+      "dayName": "Sábado",
+      "openTime": "18:00",
+      "closeTime": "00:30",
+      "isClosed": false
+    },
+    {
+      "dayOfWeek": 0,
+      "dayName": "Domingo",
+      "openTime": "18:00",
+      "closeTime": "23:45",
+      "isClosed": false
+    }
+  ],
+  "platformRates": [
+    {
+      "id": "site",
+      "name": "Site Próprio",
+      "ratePercent": 0
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "ratePercent": 0
+    },
+    {
+      "id": "cartao",
+      "name": "Cartão de Crédito/Débito",
+      "ratePercent": 3.5
+    },
+    {
+      "id": "ifood",
+      "name": "iFood / Outros",
+      "ratePercent": 12
+    }
+  ]
+}

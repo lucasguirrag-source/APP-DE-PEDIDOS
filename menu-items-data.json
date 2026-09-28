@@ -1,0 +1,1968 @@
+[
+  {
+    "id": "mini-burger-kids",
+    "name": "Mini Burger Kids",
+    "tagline": "Linha Kids Artesanal",
+    "description": "Pão artesanal, blend de fraldinha 100 g, barbecue, maionese, maionese da casa.",
+    "price": 22,
+    "category": "combos",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "15-20 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-smash-bacon-m-batata-guarana",
+    "name": "Combo Smash Bacon M + Batata Pequena + Guaraná Antarctica",
+    "tagline": "Combo Completo",
+    "description": "Pão artesanal, 2 blends de fraldinha 100 g cada, cheddar, bacon, cebola roxa, barbecue, maionese, maionese da casa, batata pequena, Guaraná Antarctica 350 ml.",
+    "price": 42,
+    "category": "combos",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "20-25 min",
+    "isPopular": true,
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-big-onion",
+    "name": "Combo Big Onion",
+    "tagline": "Com Geleia de Morango & Onion Rings",
+    "description": "Pão artesanal, 2 blends de fraldinha 100 g cada, cheddar, bacon, 3 onions, barbecue, maionese, maionese da casa, geleia de morango, fritas, Coca-Cola 350 ml.",
+    "price": 46,
+    "category": "combos",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "20-25 min",
+    "isPopular": true,
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "double-cheese-burger-fritas-2-cocas",
+    "name": "Double Cheese Burger + Fritas + 2 Cocas 350 ml",
+    "tagline": "Combo Duplo para Compartilhar",
+    "description": "Pão artesanal, 2 blends de fraldinha 100 g cada, cheddar, barbecue, maionese, maionese da casa, fritas 150 g, 2 Coca-Colas 350 ml.",
+    "price": 56,
+    "category": "combos",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "20-25 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "cheese-salad-two-fritas-2-cocas",
+    "name": "Cheese Salad Two + Fritas + 2 Cocas 350 ml",
+    "tagline": "Salad Especial + Acompanhamentos",
+    "description": "Pão artesanal, 2 blends de fraldinha 100 g cada, cheddar, cebola roxa, alface, tomate, barbecue, maionese, maionese da casa, fritas 100 g, 2 Coca-Colas 350 ml.",
+    "price": 56,
+    "category": "combos",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "20-25 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "cheese-bacon-fritas-2-cocas",
+    "name": "Cheese Bacon + Fritas + 2 Cocas 350 ml",
+    "tagline": "Duplo Bacon com Fritas e Refri",
+    "description": "Pão artesanal, 2 blends de fraldinha 100 g cada, cheddar, bacon, cebola roxa, barbecue, maionese, maionese da casa, fritas 150 g, 2 Coca-Colas 350 ml.",
+    "price": 58,
+    "category": "combos",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "20-25 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-5-mini-smash-1-coca-600",
+    "name": "Combo 5 Mini Smash Burguer + 1 Coca 600 ml",
+    "tagline": "Galera & Família",
+    "description": "Pão artesanal, 5 blends de fraldinha 80 g cada, cheddar, barbecue, maionese, maionese da casa, Coca-Cola 600 ml.",
+    "price": 68,
+    "category": "combos",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "25-30 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "festival-10-smashs-coca-1l",
+    "name": "Festival 10 Smashs + Coca 1 litro",
+    "tagline": "O Maior Festival da Casa",
+    "description": "Pão artesanal, 10 blends de fraldinha 80 g cada, cheddar, barbecue, maionese, maionese da casa, Coca-Cola 1 litro.",
+    "price": 119,
+    "category": "combos",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "30-40 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "fome-com-os-amigos",
+    "name": "Fome com os Amigos",
+    "tagline": "4 Burgers + 4 Fritas + Coca 1L",
+    "description": "Pão artesanal, 4 blends de fraldinha 100 g cada, cheddar, bacon, barbecue, maionese, maionese da casa, 4 batatas fritas, Coca-Cola 1 litro.",
+    "price": 98,
+    "category": "combos",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "30-35 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "batata-simples-150g",
+    "name": "Batata Simples 150 g",
+    "tagline": "Porção Individual Crocante",
+    "description": "Batata frita 150 g.",
+    "price": 14,
+    "category": "combos",
+    "image": "/assets/images/french_fries_cheddar_1790106235406.jpg",
+    "preparationTime": "10-15 min",
+    "isAvailable": true,
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "batata-completa-cheddar-bacon-150g",
+    "name": "Batata Completa com Cheddar e Bacon 150 g",
+    "tagline": "Cheddar Cremoso e Bacon Crocante",
+    "description": "Batata frita 150 g, cheddar derretido, bacon.",
+    "price": 22,
+    "category": "combos",
+    "image": "/assets/images/french_fries_cheddar_1790106235406.jpg",
+    "preparationTime": "12-18 min",
+    "isPopular": true,
+    "isAvailable": true,
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "conquistador",
+    "name": "Conquistador",
+    "tagline": "Receita Premium Exclusiva",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, bacon, 2 onions, alface, tomate, barbecue, maionese, maionese da casa, geleia de pimenta.",
+    "price": 34,
+    "category": "premiums",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "15-20 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "viking",
+    "name": "Viking",
+    "tagline": "Double Blend & Molho Especial",
+    "description": "Pão artesanal, 2 blends de fraldinha 100 g cada, cheddar, bacon, 3 onions, barbecue, maionese, maionese da casa, molho especial.",
+    "price": 38,
+    "category": "premiums",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "18-22 min",
+    "isPopular": true,
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "espartano",
+    "name": "Espartano",
+    "tagline": "3 Blends 100g & Cebola Caramelizada",
+    "description": "Pão artesanal, 3 blends de fraldinha 100 g cada, cheddar, bacon, cebola caramelizada, barbecue, maionese, maionese da casa.",
+    "price": 42,
+    "category": "premiums",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "20-25 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "persa",
+    "name": "Persa",
+    "tagline": "3 Blends 100g de Pura Fraldinha",
+    "description": "Pão artesanal, 3 blends de fraldinha 100 g cada, cheddar, cebola caramelizada, barbecue, maionese, maionese da casa.",
+    "price": 39,
+    "category": "premiums",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "20-25 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-smash-bacon-festival",
+    "name": "Combo Smash Bacon",
+    "tagline": "Smash Artesanal + Fritas + Refri",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, bacon, barbecue, maionese, maionese da casa, batata frita, refrigerante 350 ml.",
+    "price": 36,
+    "category": "festival-smash",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "15-20 min",
+    "isPopular": true,
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "cheese-burger-simples",
+    "name": "Cheese Burger",
+    "tagline": "O Clássico Artesanal",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, barbecue, maionese, maionese da casa.",
+    "price": 20,
+    "category": "burgers-simples",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "12-15 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "cheese-salad-one-simples",
+    "name": "Cheese Salad One",
+    "tagline": "Leve, Fresco e Suculento",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, cebola roxa, alface, tomate, barbecue, maionese, maionese da casa.",
+    "price": 22,
+    "category": "burgers-simples",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "12-15 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "cheese-bacon-simples",
+    "name": "Cheese Bacon",
+    "tagline": "Bacon em Fatias Crocantes",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, bacon, cebola roxa, barbecue, maionese, maionese da casa.",
+    "price": 24,
+    "category": "burgers-simples",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "12-15 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-cheddar-burger-fome",
+    "name": "Combo Cheddar Burger",
+    "tagline": "Com Fritas e Coca 350ml",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, cebola roxa, barbecue, maionese, maionese da casa, fritas, Coca-Cola 350 ml.",
+    "price": 38,
+    "category": "combos-fome",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "15-20 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-onion-fome",
+    "name": "Combo Onion",
+    "tagline": "Onion Rings + Salada Fresca",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, 2 onions, alface, tomate, barbecue, maionese, maionese da casa, fritas, Coca-Cola 350 ml.",
+    "price": 40,
+    "category": "combos-fome",
+    "image": "/assets/images/hero_burger_cheddar_1790106215036.jpg",
+    "preparationTime": "15-20 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "combo-cheddar-bacon-fome",
+    "name": "Combo Cheddar Bacon",
+    "tagline": "Cheddar & Bacon com Fritas e Refri",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, bacon, cebola roxa, barbecue, maionese, maionese da casa, fritas, Coca-Cola 350 ml.",
+    "price": 42,
+    "category": "combos-fome",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "15-20 min",
+    "isPopular": true,
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "smash-bacon-fome",
+    "name": "Smash Bacon",
+    "tagline": "Smash Individual Suculento",
+    "description": "Pão artesanal, blend de fraldinha 100 g, cheddar, bacon, barbecue, maionese, maionese da casa.",
+    "price": 25,
+    "category": "combos-fome",
+    "image": "/assets/images/burger_cheddar_bacon_1790106226084.jpg",
+    "preparationTime": "12-15 min",
+    "isAvailable": true,
+    "availableBreads": [
+      "Pão Artesanal Brioche Dourado",
+      "Pão Australiano",
+      "Pão Tradicional com Gergelim"
+    ],
+    "meatDonenessOptions": [
+      "Ao Ponto da Casa (Suculento)",
+      "Bem Passadinho"
+    ],
+    "availableExtras": [
+      {
+        "id": "extra-bacon",
+        "name": "Bacon Crocante Extra",
+        "price": 6.5,
+        "image": "/assets/images/extra_bacon_crispy_1790109900778.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheddar",
+        "name": "Cheddar Cremoso Quente Extra",
+        "price": 5,
+        "image": "/assets/images/extra_cheddar_melt_1790109912175.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-patty",
+        "name": "Carne Smash 100g Adicional",
+        "price": 9,
+        "image": "/assets/images/extra_smash_patty_1790109924529.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-cheese",
+        "name": "Queijo Prato Duplo",
+        "price": 4.5,
+        "image": "/assets/images/extra_cheese_double_1790109982674.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-sauce",
+        "name": "Pote Molho da Casa",
+        "price": 3.5,
+        "image": "/assets/images/extra_sauce_pot_1790109962556.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-pickles",
+        "name": "Picles Artesanais Fatiados",
+        "price": 3,
+        "image": "/assets/images/extra_pickles_slices_1790109973826.jpg",
+        "enabled": true
+      },
+      {
+        "id": "extra-crispy-onion",
+        "name": "Cebola Crispy Crocante",
+        "price": 4,
+        "image": "/assets/images/extra_crispy_onion_1790109936341.jpg",
+        "enabled": true
+      }
+    ],
+    "removalsList": [
+      "Sem Cebola Roxa",
+      "Sem Barbecue",
+      "Sem Maionese",
+      "Sem Molho da Casa",
+      "Molho à Parte"
+    ]
+  },
+  {
+    "id": "brownie-de-chocolate",
+    "name": "Brownie de Chocolate",
+    "tagline": "Artesanal e Chocolatudo",
+    "description": "Brownie de chocolate artesanal, aproximadamente 100 g.",
+    "price": 12,
+    "category": "sobremesas-gourmet",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "5 min",
+    "isAvailable": true
+  },
+  {
+    "id": "pudim-de-leite-condensado",
+    "name": "Pudim de Leite Condensado",
+    "tagline": "Cremoso com Calda Dourada",
+    "description": "Pudim de leite condensado, aproximadamente 150 g.",
+    "price": 14,
+    "category": "sobremesas-gourmet",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "5 min",
+    "isAvailable": true
+  },
+  {
+    "id": "suco-laranja-natural-one-180ml",
+    "name": "Suco de Laranja Integral Ambiente - Natural One 180ml",
+    "tagline": "100% Suco Natural",
+    "description": "Embalagem 180 ml.",
+    "price": 7,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "coca-cola-350ml",
+    "name": "Coca-Cola 350ml",
+    "tagline": "Lata Geladinha",
+    "description": "Coca-Cola 350 ml.",
+    "price": 6,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "coca-cola-zero-350ml",
+    "name": "Coca-Cola Zero 350ml",
+    "tagline": "Zero Açúcar",
+    "description": "Coca-Cola Zero 350 ml.",
+    "price": 6,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "guarana-350ml",
+    "name": "Guaraná 350ml",
+    "tagline": "Sabor do Brasil",
+    "description": "Guaraná 350 ml.",
+    "price": 6,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "suco-uva-maca-natural-one-300ml",
+    "name": "Suco Pronto de Uva e Maçã Natural One 300ml",
+    "tagline": "Garrafa 300ml",
+    "description": "Garrafa 300 ml.",
+    "price": 9,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "suco-del-valle-maracuja-290ml",
+    "name": "Suco Del Valle Maracujá 290ml",
+    "tagline": "Lata Gelada",
+    "description": "Lata 290 ml.",
+    "price": 7.5,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "suco-del-valle-nectar-uva-290ml",
+    "name": "Suco Del Valle Néctar Uva 290ml",
+    "tagline": "Néctar de Uva",
+    "description": "Lata 290 ml.",
+    "price": 7.5,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "coca-cola-600ml",
+    "name": "Coca-Cola 600ml",
+    "tagline": "Garrafa 600ml",
+    "description": "Coca-Cola 600 ml.",
+    "price": 9,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "coca-cola-1l",
+    "name": "Coca-Cola 1l",
+    "tagline": "Garrafa 1 Litro",
+    "description": "Coca-Cola 1 litro.",
+    "price": 12,
+    "category": "sucos-refrigerantes",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "budweiser-lata-350ml",
+    "name": "Budweiser Lata 350ml",
+    "tagline": "King of Beers",
+    "description": "Lata 350 ml.",
+    "price": 8,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "itaipava-350ml",
+    "name": "Itaipava 350ml",
+    "tagline": "Cerveja Pilsen",
+    "description": "Lata 350 ml.",
+    "price": 6,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "brahma-350ml",
+    "name": "Brahma 350ml",
+    "tagline": "O Sabor Clássico",
+    "description": "Lata 350 ml.",
+    "price": 7,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "original-lata-350ml",
+    "name": "Original Lata 350ml",
+    "tagline": "Antarctica Original",
+    "description": "Lata 350 ml.",
+    "price": 8.5,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "skol-lata-350ml",
+    "name": "Skol Lata 350ml",
+    "tagline": "A que Desce Redondo",
+    "description": "Lata 350 ml.",
+    "price": 6.5,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "brahma-duplo-malte-lata-350ml",
+    "name": "Brahma Duplo Malte Lata 350ml",
+    "tagline": "Dois Maltes Diferentes",
+    "description": "Lata 350 ml.",
+    "price": 8,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  },
+  {
+    "id": "heineken-lata-350ml",
+    "name": "Heineken Lata 350ml",
+    "tagline": "Pure Malt Lager",
+    "description": "Lata 350 ml.",
+    "price": 9.5,
+    "category": "cervejas",
+    "image": "https://images.unsplash.com/photo-1608270546103-97992d9d85fd?w=700&auto=format&fit=crop&q=80",
+    "preparationTime": "3 min",
+    "isAvailable": true
+  }
+]

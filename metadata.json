@@ -1,0 +1,6 @@
+{
+  "name": "AI QUE FOME - Hamburgueria Artesanal & Pedidos",
+  "description": "Cardápio digital e sistema de pedidos online para a Hamburgueria AI QUE FOME. Peça os melhores smash burgers artesanais com entrega rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
